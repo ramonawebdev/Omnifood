@@ -1,0 +1,16 @@
+{
+  "name": "omnifood",
+  "version": "1.0.0",
+  "description": "Online Food Website",
+  "main": "index.js",
+  "homepage": "https://ramonawebdev.github.io/Omnifood",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "Ramona-Adnana",
+  "license": "ISC",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
